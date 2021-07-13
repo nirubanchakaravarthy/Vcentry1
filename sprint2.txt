@@ -1,3 +1,6 @@
 Sprint2 new code
 
 Sprint2 bug fix
+
+Sprint2 second bug fix
+
